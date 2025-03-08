@@ -1,0 +1,5 @@
+streamlit
+pillow
+Numpy
+Plotly
+ultralytics
